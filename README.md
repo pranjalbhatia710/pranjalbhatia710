@@ -13,17 +13,20 @@ Right now I am focused on:
 
 ## Recent OSS work
 
+- `gumyr/build123d`: added `Axis(..., end_point=...)` construction support with tests
 - `modelcontextprotocol/python-sdk`: fixed stdio stream preservation in server transport
-- `CadQuery/cadquery`: improved selector chaining documentation
+- `CadQuery/cadquery`: improved selector chaining documentation, checks passing
 - `firecrawl/firecrawl`: fixed Python SDK warning noise around monitor models
 - `mem0ai/mem0`: removed mutable default arguments and added regression coverage
+- `NousResearch/hermes-agent`: small docs fixes around configuration, profiles, and contributor workflow
 
 ## Projects worth looking at
 
-- `trashmytech`: AI website stress testing with 50 AI personas, built at HackIllinois 2026
-- `gridmind`: campus/operations tooling experiments
-- `distraction_dataset`: distraction detection model training pipeline
-- `analytics-dashboard`: vulnerability factor analytics dashboard
+- [`trashmytech`](https://github.com/pranjalbhatia710/trashmytech): AI website stress testing with 50 AI personas, built at HackIllinois 2026
+- [`gridmind`](https://github.com/pranjalbhatia710/gridmind): campus and operations tooling experiments
+- [`gridmind-campus-monitor`](https://github.com/pranjalbhatia710/gridmind-campus-monitor): monitoring interface for GridMind
+- [`distraction_dataset`](https://github.com/pranjalbhatia710/distraction_dataset): distraction detection model training pipeline
+- [`analytics-dashboard`](https://github.com/pranjalbhatia710/analytics-dashboard): vulnerability factor analytics dashboard with TypeScript charts
 
 ## Background
 
