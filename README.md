@@ -22,11 +22,13 @@ Right now I am focused on:
 
 ## Projects worth looking at
 
-- [`trashmytech`](https://github.com/pranjalbhatia710/trashmytech): AI website stress testing with 50 AI personas, built at HackIllinois 2026
-- [`gridmind`](https://github.com/pranjalbhatia710/gridmind): campus and operations tooling experiments
-- [`gridmind-campus-monitor`](https://github.com/pranjalbhatia710/gridmind-campus-monitor): monitoring interface for GridMind
-- [`distraction_dataset`](https://github.com/pranjalbhatia710/distraction_dataset): distraction detection model training pipeline
+- [`agent-runlens`](https://github.com/pranjalbhatia710/agent-runlens): local-first CLI for turning raw AI agent traces into readable timelines and failure reports
+- [`agent-runtrace`](https://github.com/pranjalbhatia710/agent-runtrace): trace recorder and standalone HTML viewer for AI agent runs
+- [`trashmytech`](https://github.com/pranjalbhatia710/trashmytech): AI website stress testing with browser personas, built at HackIllinois 2026
 - [`analytics-dashboard`](https://github.com/pranjalbhatia710/analytics-dashboard): vulnerability factor analytics dashboard with TypeScript charts
+- [`distraction_dataset`](https://github.com/pranjalbhatia710/distraction_dataset): distraction detection model training pipeline
+- [`gridmind-campus-monitor`](https://github.com/pranjalbhatia710/gridmind-campus-monitor): monitoring interface for GridMind
+- [`gridmind`](https://github.com/pranjalbhatia710/gridmind): campus and operations tooling experiments
 
 ## Background
 
