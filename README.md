@@ -24,11 +24,12 @@ Right now I am focused on:
 
 - [`agent-runlens`](https://github.com/pranjalbhatia710/agent-runlens): local-first CLI for turning raw AI agent traces into readable timelines and failure reports
 - [`agent-runtrace`](https://github.com/pranjalbhatia710/agent-runtrace): trace recorder and standalone HTML viewer for AI agent runs
+- [`agent-regression-lab`](https://github.com/pranjalbhatia710/agent-regression-lab): tiny regression tests for AI agent traces, tool calls, and final answers
+- [`contrib-radar`](https://github.com/pranjalbhatia710/contrib-radar): ranks GitHub issues for credible, low-spam OSS contributions
+- [`cad-agent`](https://github.com/pranjalbhatia710/cad-agent): prompt-to-OpenSCAD starter kit for simple parametric CAD parts
 - [`trashmytech`](https://github.com/pranjalbhatia710/trashmytech): AI website stress testing with browser personas, built at HackIllinois 2026
 - [`analytics-dashboard`](https://github.com/pranjalbhatia710/analytics-dashboard): vulnerability factor analytics dashboard with TypeScript charts
 - [`distraction_dataset`](https://github.com/pranjalbhatia710/distraction_dataset): distraction detection model training pipeline
-- [`gridmind-campus-monitor`](https://github.com/pranjalbhatia710/gridmind-campus-monitor): monitoring interface for GridMind
-- [`gridmind`](https://github.com/pranjalbhatia710/gridmind): campus and operations tooling experiments
 
 ## Background
 
