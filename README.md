@@ -22,6 +22,7 @@ Right now I am focused on:
 
 ## Projects worth looking at
 
+- [`cadsmith`](https://github.com/pranjalbhatia710/cadsmith): self-correcting text-to-CAD agent that executes CadQuery code, measures generated geometry, and loops until the model verifies
 - [`agent-runlens`](https://github.com/pranjalbhatia710/agent-runlens): local-first CLI for turning raw AI agent traces into readable timelines and failure reports
 - [`agent-runtrace`](https://github.com/pranjalbhatia710/agent-runtrace): trace recorder and standalone HTML viewer for AI agent runs
 - [`agent-regression-lab`](https://github.com/pranjalbhatia710/agent-regression-lab): tiny regression tests for AI agent traces, tool calls, and final answers
