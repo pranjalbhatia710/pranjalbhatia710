@@ -13,12 +13,15 @@ Right now I am focused on:
 
 ## Recent OSS work
 
-- `gumyr/build123d`: added `Axis(..., end_point=...)` construction support with tests
-- `modelcontextprotocol/python-sdk`: fixed stdio stream preservation in server transport
-- `CadQuery/cadquery`: improved selector chaining documentation, checks passing
-- `firecrawl/firecrawl`: fixed Python SDK warning noise around monitor models
-- `mem0ai/mem0`: removed mutable default arguments and added regression coverage
-- `NousResearch/hermes-agent`: small docs fixes around configuration, profiles, and contributor workflow
+Open PRs and patches I am actively tracking:
+
+- [`vercel/ai`](https://github.com/vercel/ai/pull/15857): caching provider option for AI Gateway
+- [`r12habh/ActionScope`](https://github.com/r12habh/ActionScope/pull/87): tests for additional AI agent action detectors
+- [`gumyr/build123d`](https://github.com/gumyr/build123d/pull/1330): create planes from three points
+- [`huggingface/lerobot`](https://github.com/huggingface/lerobot/pull/3720): support dataset features with zero-width dimensions
+- [`modelcontextprotocol/python-sdk`](https://github.com/modelcontextprotocol/python-sdk/pull/2775): transport security troubleshooting docs
+- [`CadQuery/cadquery`](https://github.com/CadQuery/cadquery/pull/2042): selector chaining documentation
+- [`NousResearch/hermes-agent`](https://github.com/NousResearch/hermes-agent/pulls?q=author%3Apranjalbhatia710): docs, tests, and small config fixes
 
 ## Projects worth looking at
 
