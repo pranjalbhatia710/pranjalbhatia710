@@ -15,12 +15,13 @@ Right now I am focused on:
 
 Open PRs and patches I am actively tracking:
 
+- [`CadQuery/cadquery`](https://github.com/CadQuery/cadquery/pull/2044): docs for Workplane tags and `end()` usage
+- [`spxrogers/agentsync`](https://github.com/spxrogers/agentsync/pull/73): skip unsupported Claude LSP settings
 - [`vercel/ai`](https://github.com/vercel/ai/pull/15857): caching provider option for AI Gateway
 - [`r12habh/ActionScope`](https://github.com/r12habh/ActionScope/pull/87): tests for additional AI agent action detectors
 - [`gumyr/build123d`](https://github.com/gumyr/build123d/pull/1330): create planes from three points
 - [`huggingface/lerobot`](https://github.com/huggingface/lerobot/pull/3720): support dataset features with zero-width dimensions
 - [`modelcontextprotocol/python-sdk`](https://github.com/modelcontextprotocol/python-sdk/pull/2775): transport security troubleshooting docs
-- [`CadQuery/cadquery`](https://github.com/CadQuery/cadquery/pull/2042): selector chaining documentation
 - [`NousResearch/hermes-agent`](https://github.com/NousResearch/hermes-agent/pulls?q=author%3Apranjalbhatia710): docs, tests, and small config fixes
 
 ## Projects worth looking at
