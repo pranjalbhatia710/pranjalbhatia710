@@ -28,7 +28,8 @@ Open PRs and patches I am actively tracking:
 
 - [`cadsmith`](https://github.com/pranjalbhatia710/cadsmith): self-correcting text-to-CAD agent that executes CadQuery code, measures generated geometry, and loops until the model verifies
 - [`agent-runlens`](https://github.com/pranjalbhatia710/agent-runlens): local-first CLI for turning raw AI agent traces into readable timelines and failure reports
-- [`agent-runtrace`](https://github.com/pranjalbhatia710/agent-runtrace): trace recorder and standalone HTML viewer for AI agent runs
+- [`agent-runtrace`](https://github.com/pranjalbhatia710/agent-runtrace): trace recorder and searchable standalone HTML viewer for AI agent runs
+- [`gridmind-campus-monitor`](https://github.com/pranjalbhatia710/gridmind-campus-monitor): interactive 3D campus energy dashboard for ML proxy metering, anomaly detection, and facilities ROI analysis
 - [`agent-regression-lab`](https://github.com/pranjalbhatia710/agent-regression-lab): tiny regression tests for AI agent traces, tool calls, and final answers
 - [`contrib-radar`](https://github.com/pranjalbhatia710/contrib-radar): ranks GitHub issues for credible, low-spam OSS contributions
 - [`cad-agent`](https://github.com/pranjalbhatia710/cad-agent): prompt-to-OpenSCAD starter kit for simple parametric CAD parts
